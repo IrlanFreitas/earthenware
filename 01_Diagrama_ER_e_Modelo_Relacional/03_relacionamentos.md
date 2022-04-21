@@ -28,6 +28,3 @@ FORNECEDOR - **FORNECE** - PEÇA - **PARA UM** - PROJETO : Ternário.
 FUNCIONÁRIO - **SUPERVISINA** - FUNCIONÁRIO
 
 <img src="./assets/relacionamento_recursivo.png" width="750" >
-
-
-## Cardinalidade
